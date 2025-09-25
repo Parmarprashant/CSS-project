@@ -1,0 +1,51 @@
+.main{
+    display: flex;
+
+}
+
+.location{
+    position: absolute;
+    top: 20px;
+    left: 600px;
+}
+.text{
+    position: absolute;
+    top: 23px;
+    left: 660px;
+    font-weight: bold;
+    color: blue;
+    font-size: medium;
+}
+.added-profile{
+    position: absolute;
+    top: 10px;
+    left: 1450px;
+}
+
+.search{
+    position: absolute;
+    top: 50px;
+    left: 300px;
+}
+.search-button{
+    position: absolute;
+    top: 95px;
+    left: 1480px;
+    
+}
+.image{
+    position: absolute;
+    top: 140px;
+    left: 600px;
+
+}
+.search{
+    height: 40px;
+    border-radius: 10px;
+    opacity: 0.6;
+    top: 80px;
+    left: 598px;
+}
+
+
+
